@@ -1,0 +1,113 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+
+    
+}
+
+h2{
+    font-size: 30px;
+    margin-bottom: 200px;
+    margin-right: 600px;
+    color: purple
+}
+#a1{
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 50px;
+    color: #000000;
+}
+#a2{
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 50px;
+    color: #000000;
+}
+#a3{
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 50px;
+    color: #000000;
+}
+#a4{
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 50px;
+    color: #000000;
+}
+#a5{
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 50px;
+    color: #000000;
+}
+
+.heading{
+    
+    display: flex;
+    justify-content: center;
+    grid: 50px;
+    flex-basis: 30%;
+    color: grey;
+    height: 300px;
+    width: 100%;
+    margin-bottom: 200px;
+    margin-left: 130px;
+}
+#subheading{
+    font-size: 20px;
+}
+h2{
+    color: #28282B;
+}
+#name1{
+    font-size: 40px;
+    font-weight: bolder;
+    color:#BF40BF
+
+}
+#name2{
+    font-size: 40px;
+    margin-top: 20px;
+    font-weight:bolder;
+    color:#BF40BF
+}
+#para{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    margin-right: 500px;
+    color: grey;
+    font-family: 'Badoni Moda',serif;
+    margin-bottom: 100px;
+   
+}
+#but1{
+    font-size: 20px;
+    border-radius: 5px;
+    color: white;
+    background-color: #BF40BF;
+}
+#but2{
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: 10px;
+    background-color: white;
+    color: #BF40BF;
+}
+#beta1{
+    height: 500px;
+    width: 500px;
+    margin-right: 200px;
+    flex-basis: 50%;
+    border-radius: 100%;
+    background-size: cover;
+    background-position: top;
+}
+#beta1:hover{
+    background-color: green;
+    background-position: center;
+    transition: all 0.7s;
+    cursor: pointer;
+}
